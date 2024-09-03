@@ -22,3 +22,5 @@ _This text is italicized_
 This is a <sub>subscript</sub> text
 
 This is a <sup>superscript</sup> text
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
